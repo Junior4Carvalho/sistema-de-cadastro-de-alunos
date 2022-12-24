@@ -16,7 +16,7 @@ Ele não é completo como os sistemas colegiais reais, mas passa uma ideia de co
 - E por fim, basta colocar os dados do aluno que pretende cadastrar.
 - E Rodar o programa parar adicionar os dados ao Banco de dados.
 
-## Crédito ⬇️
+## Créditos ⬇️
 - <a href="https://github.com/Junior4Carvalho">Junior Carvalho </a> 🚀
 
 ## Note ✍️
